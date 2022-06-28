@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @peredirtbike
 - 👀 I’m interested in learning a lot about programming.
-- 🌱 I’m currently learning Python, Java, Laravel, Angular and Django.
+- 🌱 I’m currently learning Python, Java, Laravel, Angular, Django and React.
 - 💞️ I’m looking to collaborate on something I can.
 - 📫 How to reach me:
       Instagram:@peregg98

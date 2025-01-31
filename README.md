@@ -1,11 +1,12 @@
-- 👋 Hi, I’m @peredirtbike
-- 👀 I’m interested in learning a lot about programming.
-- 🌱 I’m currently learning Python, Angular, Django and React.
-- 💞️ I’m looking to collaborate on something I can.
-- 📫 How to reach me:
-      Instagram:@peregg98
+🚀 Full-Stack Developer | Spring Boot 🏗️ | Vue.js ⚡ | Python 🐍
 
-<!---
-peredirtbike/peredirtbike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi there! I'm a developer passionate about building efficient and scalable applications. My main focus is on Spring Boot for backend development and Vue.js for crafting modern and intuitive frontends.
+
+💡 I also have experience with Python, allowing me to work on automation, data processing, and more. Always exploring new technologies and striving to write clean, efficient code.
+
+📌 Tech Stack:
+✔️ Java + Spring Boot
+✔️ Vue.js + TypeScript
+✔️ Python (automation, scripting)
+
+🔍 Constantly learning and improving. Always open to new challenges and collaborations! 🚀

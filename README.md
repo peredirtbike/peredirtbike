@@ -1,5 +1,5 @@
 <!-- Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Pere%20Garc%C3%ADa&fontSize=48&fontAlignY=35&color=gradient" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=170&section=header&text=Pere%20Garcia&fontSize=48&fontAlignY=35&color=gradient" />
 
 <!-- Typing -->
 <p align="center">
@@ -12,7 +12,7 @@
     <img src="https://img.shields.io/badge/Portfolio-peregarcia.tech-111111?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
   <a href="https://es.linkedin.com/in/peregagrau" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Pere%20Garc%C3%ADa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Pere%20Garcia-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -36,8 +36,8 @@ Most of my professional work lives in private repositories.
 ---
 
 <p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=peredirtbike&show_icons=true&hide_title=true" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peredirtbike&layout=compact" />
 </p>
 
 <!-- Footer -->

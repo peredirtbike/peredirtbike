@@ -35,10 +35,7 @@ Most of my professional work lives in private repositories.
 
 ---
 
-<p align="left">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=peredirtbike&show_icons=true&hide_title=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peredirtbike&layout=compact" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=peredirtbike&theme=react&hide_border=true)](https://git.io/streak-stats)
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=gradient" />
